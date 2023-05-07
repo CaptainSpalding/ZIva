@@ -1,2 +1,2 @@
-# ZIva
-Ziva is created within the GPT-3 model
+# Zivaw
+Zivaw is created within the GPT-3 model
